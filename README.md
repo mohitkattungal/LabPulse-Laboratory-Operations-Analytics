@@ -85,7 +85,7 @@ Provides a high-level view of laboratory performance.
 - Average TAT by test name.
 - Interactive filtering by date, test name, specimen type, and day type.
 
-![Operations Overview](screenshots/Operations%20Overview.png)
+![Operations Overview](screenshots/Operations_Overview.png)
 
 ### Page 2 – TAT Analysis
 
@@ -96,7 +96,7 @@ Focuses on turnaround-time patterns and processing efficiency.
 - Average TAT by test type.
 - Delay rate by day and collection hour using a matrix heatmap.
 
-![TAT Analysis](screenshots/TAT%20Analysis.png)
+![TAT Analysis](screenshots/TAT_Analysis.png)
 
 ### Page 3 – Delay & Workload Analysis
 
@@ -107,7 +107,7 @@ Examines operational delays and sample workload patterns.
 - Delay rate by collection hour.
 - Sample workload by collection hour.
 
-![Delay & Workload Analysis](screenshots/Delay%20%26%20Workload%20Analysis.png)
+![Delay & Workload Analysis](screenshots/Delay_Workload%20Analysis.png)
 
 ## 🔍 8. Key Analytical Findings
 
